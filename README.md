@@ -1,4 +1,4 @@
-# todo_app_exercise for Cove - QA Specialist / Tester
+# Todo app exercise for Cove - QA Specialist
 
 Name : Hasitha Waruna Radampala Gamage
 
